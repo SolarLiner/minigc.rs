@@ -1,0 +1,48 @@
+ThreadId(1)-main 313678
+ThreadId(1)-main; minigc::interpreter::run:src/interpreter.rs:219 256327
+ThreadId(1)-main; minigc::interpreter::run:src/interpreter.rs:219; minigc::interpreter::execute:src/interpreter.rs:247 145650
+ThreadId(1)-main; minigc::interpreter::run:src/interpreter.rs:219; minigc::interpreter::execute:src/interpreter.rs:247; minigc::vm::push_value:src/vm.rs:85 161471
+ThreadId(1)-main; minigc::interpreter::run:src/interpreter.rs:219; minigc::interpreter::execute:src/interpreter.rs:247; minigc::vm::push_value:src/vm.rs:85; minigc::vm::push:src/vm.rs:107 67380
+ThreadId(1)-main; minigc::interpreter::run:src/interpreter.rs:219; minigc::interpreter::execute:src/interpreter.rs:247; minigc::vm::push_value:src/vm.rs:85 107494
+ThreadId(1)-main; minigc::interpreter::run:src/interpreter.rs:219; minigc::interpreter::execute:src/interpreter.rs:247 92837
+ThreadId(1)-main; minigc::interpreter::run:src/interpreter.rs:219 96795
+ThreadId(1)-main; minigc::interpreter::run:src/interpreter.rs:219; minigc::interpreter::move_to:src/interpreter.rs:106 50137
+ThreadId(1)-main; minigc::interpreter::run:src/interpreter.rs:219 220190
+ThreadId(1)-main; minigc::interpreter::run:src/interpreter.rs:219; minigc::interpreter::execute:src/interpreter.rs:247 134051
+ThreadId(1)-main; minigc::interpreter::run:src/interpreter.rs:219; minigc::interpreter::execute:src/interpreter.rs:247; minigc::vm::push_value:src/vm.rs:85 148738
+ThreadId(1)-main; minigc::interpreter::run:src/interpreter.rs:219; minigc::interpreter::execute:src/interpreter.rs:247; minigc::vm::push_value:src/vm.rs:85; minigc::vm::push:src/vm.rs:107 64742
+ThreadId(1)-main; minigc::interpreter::run:src/interpreter.rs:219; minigc::interpreter::execute:src/interpreter.rs:247; minigc::vm::push_value:src/vm.rs:85 104339
+ThreadId(1)-main; minigc::interpreter::run:src/interpreter.rs:219; minigc::interpreter::execute:src/interpreter.rs:247 92462
+ThreadId(1)-main; minigc::interpreter::run:src/interpreter.rs:219 94152
+ThreadId(1)-main; minigc::interpreter::run:src/interpreter.rs:219; minigc::interpreter::move_to:src/interpreter.rs:106 50699
+ThreadId(1)-main; minigc::interpreter::run:src/interpreter.rs:219 208108
+ThreadId(1)-main; minigc::interpreter::run:src/interpreter.rs:219; minigc::interpreter::execute:src/interpreter.rs:247 137095
+ThreadId(1)-main; minigc::interpreter::run:src/interpreter.rs:219; minigc::interpreter::execute:src/interpreter.rs:247; minigc::vm::push_value:src/vm.rs:85 149081
+ThreadId(1)-main; minigc::interpreter::run:src/interpreter.rs:219; minigc::interpreter::execute:src/interpreter.rs:247; minigc::vm::push_value:src/vm.rs:85; minigc::vm::push:src/vm.rs:107 61988
+ThreadId(1)-main; minigc::interpreter::run:src/interpreter.rs:219; minigc::interpreter::execute:src/interpreter.rs:247; minigc::vm::push_value:src/vm.rs:85 104461
+ThreadId(1)-main; minigc::interpreter::run:src/interpreter.rs:219; minigc::interpreter::execute:src/interpreter.rs:247 92946
+ThreadId(1)-main; minigc::interpreter::run:src/interpreter.rs:219 93485
+ThreadId(1)-main; minigc::interpreter::run:src/interpreter.rs:219; minigc::interpreter::move_to:src/interpreter.rs:106 50237
+ThreadId(1)-main; minigc::interpreter::run:src/interpreter.rs:219 206865
+ThreadId(1)-main; minigc::interpreter::run:src/interpreter.rs:219; minigc::interpreter::execute:src/interpreter.rs:247 127534
+ThreadId(1)-main; minigc::interpreter::run:src/interpreter.rs:219; minigc::interpreter::execute:src/interpreter.rs:247; minigc::vm::pop:src/vm.rs:116 55661
+ThreadId(1)-main; minigc::interpreter::run:src/interpreter.rs:219; minigc::interpreter::execute:src/interpreter.rs:247 102302
+ThreadId(1)-main; minigc::interpreter::run:src/interpreter.rs:219; minigc::interpreter::execute:src/interpreter.rs:247; minigc::vm::pop:src/vm.rs:116 68184
+ThreadId(1)-main; minigc::interpreter::run:src/interpreter.rs:219; minigc::interpreter::execute:src/interpreter.rs:247 113503
+ThreadId(1)-main; minigc::interpreter::run:src/interpreter.rs:219; minigc::interpreter::execute:src/interpreter.rs:247; minigc::vm::push_value:src/vm.rs:85 153248
+ThreadId(1)-main; minigc::interpreter::run:src/interpreter.rs:219; minigc::interpreter::execute:src/interpreter.rs:247; minigc::vm::push_value:src/vm.rs:85; minigc::vm::push:src/vm.rs:107 63458
+ThreadId(1)-main; minigc::interpreter::run:src/interpreter.rs:219; minigc::interpreter::execute:src/interpreter.rs:247; minigc::vm::push_value:src/vm.rs:85 105932
+ThreadId(1)-main; minigc::interpreter::run:src/interpreter.rs:219; minigc::interpreter::execute:src/interpreter.rs:247 92748
+ThreadId(1)-main; minigc::interpreter::run:src/interpreter.rs:219 101366
+ThreadId(1)-main; minigc::interpreter::run:src/interpreter.rs:219; minigc::interpreter::move_to:src/interpreter.rs:106 49565
+ThreadId(1)-main; minigc::interpreter::run:src/interpreter.rs:219 205333
+ThreadId(1)-main; minigc::interpreter::run:src/interpreter.rs:219; minigc::interpreter::execute:src/interpreter.rs:247 124464
+ThreadId(1)-main; minigc::interpreter::run:src/interpreter.rs:219; minigc::interpreter::execute:src/interpreter.rs:247; minigc::vm::pop:src/vm.rs:116 54585
+ThreadId(1)-main; minigc::interpreter::run:src/interpreter.rs:219; minigc::interpreter::execute:src/interpreter.rs:247 100667
+ThreadId(1)-main; minigc::interpreter::run:src/interpreter.rs:219; minigc::interpreter::execute:src/interpreter.rs:247; minigc::vm::pop:src/vm.rs:116 54233
+ThreadId(1)-main; minigc::interpreter::run:src/interpreter.rs:219; minigc::interpreter::execute:src/interpreter.rs:247 104981
+ThreadId(1)-main; minigc::interpreter::run:src/interpreter.rs:219; minigc::interpreter::execute:src/interpreter.rs:247; minigc::vm::push_value:src/vm.rs:85 152260
+ThreadId(1)-main; minigc::interpreter::run:src/interpreter.rs:219; minigc::interpreter::execute:src/interpreter.rs:247; minigc::vm::push_value:src/vm.rs:85; minigc::vm::push:src/vm.rs:107 62315
+ThreadId(1)-main; minigc::interpreter::run:src/interpreter.rs:219; minigc::interpreter::execute:src/interpreter.rs:247; minigc::vm::push_value:src/vm.rs:85 105068
+ThreadId(1)-main; minigc::interpreter::run:src/interpreter.rs:219; minigc::interpreter::execute:src/interpreter.rs:247 93537
+ThreadId(1)-main; minigc::interpreter::run:src/interpreter.rs:219 82436
